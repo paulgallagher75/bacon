@@ -948,5 +948,49 @@
         "url": "http://repository.jboss.org/licenses/gpl-2.0-ce.txt"
       }
     ]
+  },
+  {
+    "groupId": "io.jaegertracing",
+    "artifactId": "jaeger-client",
+    "version-regexp": "1\\..+",
+    "licenses": [
+      {
+        "name": "Apache License 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+      }
+    ]
+  },
+  {
+    "groupId": "io.jaegertracing",
+    "artifactId": "jaeger-core",
+    "version-regexp": "1\\..+",
+    "licenses": [
+      {
+        "name": "Apache License 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+      }
+    ]
+  },
+  {
+    "groupId": "io.jaegertracing",
+    "artifactId": "jaeger-thrift",
+    "version-regexp": "1\\..+",
+    "licenses": [
+      {
+        "name": "Apache License 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+      }
+    ]
+  },
+  {
+    "groupId": "io.jaegertracing",
+    "artifactId": "jaeger-tracerresolver",
+    "version-regexp": "1\\..+",
+    "licenses": [
+      {
+        "name": "Apache License 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+      }
+    ]
   }
 ]
